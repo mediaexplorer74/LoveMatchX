@@ -11,9 +11,9 @@ Xamarin Forms. "Shared project" experimentation.
 
 iOS
 
-Android (33; 15 -- min)
+Android (33; 19/KitKat -- min)
 
-UWP (19063; 10240 -- min)
+UWP (19063; 10240/Astoria -- min)
 
 
 ## ..
